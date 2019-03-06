@@ -2,6 +2,7 @@
 
  - New CX Widget Push
  - New GDPR Banner
+ - WPML Update
  
  ## Affected
  
