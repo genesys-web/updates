@@ -1,7 +1,7 @@
-# Genesys Webiste Updates
+# Genesys Website Updates
 
- - Sample 1
- - Sample 2
+ - New CX Widget Push
+ - New GDPR Banner
  
  ## Affected
  
