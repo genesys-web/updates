@@ -1,6 +1,6 @@
 # Genesys Website Updates
 
- - New CX Widget Push
+ - New CX Widget Push (EN, ANZ, UK & ASIA)
  - New GDPR Banner
  - WPML Update
  
