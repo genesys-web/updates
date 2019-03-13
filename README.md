@@ -1,8 +1,7 @@
 # Genesys Website Updates
 
- - New CX Widget Push (EN, ANZ, UK & ASIA)
- - New GDPR Banner
- - WPML Update
+ - Wordpress 5.1.1 https://wordpress.org/support/wordpress-version/version-5-1-1/
+ - Plugin Updates
  
  ## Affected
  
